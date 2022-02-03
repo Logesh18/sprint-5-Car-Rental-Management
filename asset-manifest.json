@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sprint-5-Car-Rental-Management/static/css/main.7e8ac97a.css",
+    "main.js": "/sprint-5-Car-Rental-Management/static/js/main.6d19273d.js",
+    "static/js/787.c7705932.chunk.js": "/sprint-5-Car-Rental-Management/static/js/787.c7705932.chunk.js",
+    "index.html": "/sprint-5-Car-Rental-Management/index.html",
+    "main.7e8ac97a.css.map": "/sprint-5-Car-Rental-Management/static/css/main.7e8ac97a.css.map",
+    "main.6d19273d.js.map": "/sprint-5-Car-Rental-Management/static/js/main.6d19273d.js.map",
+    "787.c7705932.chunk.js.map": "/sprint-5-Car-Rental-Management/static/js/787.c7705932.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e8ac97a.css",
+    "static/js/main.6d19273d.js"
+  ]
+}
